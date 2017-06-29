@@ -1,0 +1,4 @@
+sceneSetups:
+- path: 1/Scene/Example01.unity
+  isLoaded: 1
+  isActive: 1

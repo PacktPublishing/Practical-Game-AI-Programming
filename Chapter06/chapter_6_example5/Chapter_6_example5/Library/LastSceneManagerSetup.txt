@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MOBA and Tower Defense/Demo/Demo1.unity
+  isLoaded: 1
+  isActive: 1

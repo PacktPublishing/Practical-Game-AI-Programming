@@ -1,0 +1,17 @@
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/UnityEngine.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/UnityEditor.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/obj/Debug/Assembly-CSharp.dll
+/Users/Micael/MEGA/Book/_Chapter 6/example/chapter_6_example/obj/Debug/Assembly-CSharp.dll.mdb

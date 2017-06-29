@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/leenapatil/Desktop/VIMP/6245/Book_Scripts/Book_Scripts/Chapter 6/chapter_6_example2/Assets/Scene/Example01.unity
+  isLoaded: 1
+  isActive: 1
