@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="02.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ballScript.cs">
+    <Files>
+      <File FileName="Assets\ballScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\characterAI.cs" Line="1" Column="1" />
+      <File FileName="..\..\Chapter 9\enemy.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
