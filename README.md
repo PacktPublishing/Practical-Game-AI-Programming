@@ -1,5 +1,5 @@
 # Practical Game AI Programming
-This is the code repository for [Practical Game AI Programming](Current URL?utm_source=github&utm_medium=repository&utm_campaign=978-1-78712-281-9), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Practical Game AI Programming](https://www.packtpub.com/game-development/practical-game-ai-programming?utm_source=GitHub), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Moving on, you’ll explore how to work with animations. You’ll also plan and create pruning strategies, and create Theta algorithms to find short and realistic looking game paths. Next, you’ll learn how the AI should behave when there is a lot of characters in the same scene.
 
@@ -28,11 +28,11 @@ if (playerPosition == "triggerM")
 It is recommended that you have install a game engine that uses C# (Unity3D has a free version, and it was used for the examples covered on the book).
 
 ## Related Products
-* [Unity 5.x Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781784391362)
+* [Unity 5.x Cookbook](https://www.packtpub.com/game-development/unity-5x-cookbook?utm_source=GitHub)
 
-* [Unity3D UI Essentials](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781783553617)
+* [Unity3D UI Essentials](https://www.packtpub.com/game-development/unity3d-ui-essentials?utm_source=GitHub)
 
-* [Unity Character Animation with Mecanim](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781849696364)
+* [Unity Character Animation with Mecanim](https://www.packtpub.com/game-development/unity-character-animation-mecanim?utm_source=GitHub)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
