@@ -34,3 +34,7 @@ It is recommended that you have install a game engine that uses C# (Unity3D has 
 
 * [Unity Character Animation with Mecanim](https://www.packtpub.com/game-development/unity-character-animation-mecanim?utm_source=GitHub)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787122819">https://packt.link/free-ebook/9781787122819 </a> </p>
